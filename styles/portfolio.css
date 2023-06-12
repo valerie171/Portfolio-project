@@ -55,6 +55,10 @@ p{
     font-family: var(--default-font-family);
     
 }
+.about-section img{
+    width: 400px;
+    border-radius: 1px;
+}
 
 .about-section-content{
 margin: 30px ;
